@@ -4,7 +4,7 @@ a {
 
 body {
     /* background-color: rgb(144, 211, 233); */
-    background-image: url(images/sea.jpg);
+    background-image: url(sea.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -381,5 +381,6 @@ form button:hover {
         left: 0px;
         top: 0px;
     }
+
 
 }
