@@ -1,5 +1,6 @@
 a {
     text-decoration: none;
+    flex-wrap: wrap;
 }
 
 body {
@@ -35,6 +36,7 @@ body {
 
 .nav div {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .nav div a {
@@ -47,6 +49,7 @@ body {
     gap: 20px;
     font-size: 20px;
     font-weight: 700;
+    flex-wrap: wrap;
 }
 
 .nav div a:hover {
@@ -71,6 +74,7 @@ body {
 .home h1,
 p {
     margin: 30px;
+    flex-wrap: wrap;
 }
 
 .home img {
@@ -113,6 +117,7 @@ iframe {
     padding: 20px;
     margin-top: 20px;
     box-shadow: 2px 2px 5px black;
+    flex-wrap: wrap;
 }
 
 .states h2 {
@@ -407,5 +412,6 @@ form button:hover {
 
 
 }
+
 
 
